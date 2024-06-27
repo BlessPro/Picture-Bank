@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+}
+
+/*Navbar - styling
+
+ logo-resizing*/
+.navbar-brand{
+  width:50px;
+  border-radius: 50px;  
+}
+/* for btn */
+
+.navbar-btn {
+    padding:7px 50px 7px 50px;
+    border:none;
+    color: #F8F9FA;
+    background-color: black;
+    margin: 0;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
